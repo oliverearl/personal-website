@@ -8,7 +8,7 @@ As you might've guessed, you can find my GH Pages website at [https://oliverearl
 
 - My main website can be found at [https://www.oliverearl.co.uk](https://www.oliverearl.co.uk).
 
-- I blog on the Hashnode platform - reachable at either @oliverearl, or [https://blog.oliverearl.co.uk](https://blog.oliverearl.co.uk).
+- You can find my blog on [https://scratchpad.oliverearl.co.uk](https://scratchpad.oliverearl.co.uk).
 
 ## Roadmap
 
