@@ -1,5 +1,5 @@
 layout: stacked
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -23,7 +23,7 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    forks: false
+    forks: true
     projects:
     # - repo-name
 
@@ -31,7 +31,7 @@ social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_usernames
-  linkedin: oliverearl
+  # linkedin: oliverearl
   # medium: @your_username
   # stackoverflow: your_user_id
   # telegram: your_username
@@ -40,7 +40,7 @@ social_media:
   # vk: your_username
 
 topics:
-  - name: HTML5 / CSS3
+  - name: HTML / CSS
     web_url: https://github.com/topics/html
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/html/html.png
 
@@ -60,13 +60,13 @@ topics:
     web_url: https://github.com/topics/laravel
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/laravel/laravel.png
 
-  - name: WordPress
-    web_url: https://github.com/topics/wordpress
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/wordpress/wordpress.png
+  - name: Nuxt
+    web_url: https://github.com/topics/nuxt
+    image_url: https://raw.githubusercontent.com/github/explore/37f1f9609f5c48a47f4d9c1a916fc2069fd0141c/topics/nuxt/nuxt.png
 
-  - name: Java
-    web_url: https://github.com/topics/java
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/java/java.png
+  - name: C#
+    web_url: https://github.com/topics/csharp
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png
 
   - name: Godot
     web_url: https://github.com/topics/godot
